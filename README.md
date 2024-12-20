@@ -1,4 +1,4 @@
-# Building a Codespaces-Style App with Django, Python, Vite/React, and Axios
+# Building a "PseudoCode" App with Django, Python, Vite/React, and Axios
 
 ## Project Overview
 This application aims to emulate the functionality of a development environment like Codespaces, integrating features such as user profiles, project management, task assignments, collaborative code editing, and communication tools. Below is a comprehensive breakdown of the features and the technologies involved.
